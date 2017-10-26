@@ -1,0 +1,27 @@
+{
+  "name": "@unifyme/iconsfont",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnifyMe/iconsFont.git"
+  },
+  "keywords": [
+    "font",
+    "icon",
+    "icons"
+  ],
+  "author": "UnifyMe (http://www.unifyme.io)",
+  "contributors": [
+    "Aitor Pineiro",
+    "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>"
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/UnifyMe/iconsFont/issues"
+  },
+  "homepage": "https://github.com/UnifyMe/iconsFont#readme"
+}
