@@ -3,7 +3,7 @@
 ## Build typography with custom icons
 
 ### Supported vector formats:
-you can import custom images into fontello. We currently support 2 vector formats:
+You can import custom images. Fontello currently support 2 vector formats:
 
 1. SVG fonts.
 2. SVG images.
