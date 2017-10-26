@@ -1,6 +1,6 @@
 
 # Created by https://www.gitignore.io/api/macos,windows
-
+.idea/
 ### macOS ###
 *.DS_Store
 .AppleDouble
