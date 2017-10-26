@@ -1,0 +1,14 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <title>icons white line</title>
+  <path class="cls-1" d="M13.6,9.76558a4.06413,4.06413,0,0,0,1.84186-3.11442A4.40118,4.40118,0,0,0,10.97674,2.186H4V17.814h7.8586A4.23351,4.23351,0,0,0,13.6,9.76558ZM7.34884,4.97674h3.34884a1.67442,1.67442,0,0,1,0,3.34884H7.34884Zm3.907,10.04651h-3.907V11.67442h3.907a1.67442,1.67442,0,1,1,0,3.34884Z"/>
+</svg>
